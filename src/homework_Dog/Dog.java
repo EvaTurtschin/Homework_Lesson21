@@ -12,8 +12,6 @@ public class Dog {
         this.dogBreed = dogBreed;
         counter ++;
     }
-
-
   public String toString ()
   { return dogName + " - " + dogBreed;
   }
