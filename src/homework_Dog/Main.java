@@ -18,7 +18,6 @@ public class Main {
        /* for (Dog dog : dogs)
         { System.out.println(dog); }
         */
-
         for (int i=0, j=1; i< dogs.length; i++, j++)
             System.out.println(j+ ". "+ dogs [i]);
 

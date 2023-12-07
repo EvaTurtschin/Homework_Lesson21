@@ -5,7 +5,6 @@ public class Dog {
     String dogName;
     String dogBreed;
     static int counter;
-
     public Dog(String dogName, String dogBreed)
     {
         this.dogName = dogName;
