@@ -20,6 +20,4 @@ public class Main {
         */
         for (int i=0, j=1; i< dogs.length; i++, j++)
             System.out.println(j+ ". "+ dogs [i]);
-
-
 }}

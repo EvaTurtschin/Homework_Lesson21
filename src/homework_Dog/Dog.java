@@ -12,8 +12,7 @@ public class Dog {
         counter ++;
     }
   public String toString ()
-  { return dogName + " - " + dogBreed;
-  }
+  { return dogName + " - " + dogBreed; }
 
 
 }
